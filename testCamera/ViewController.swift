@@ -172,9 +172,10 @@ class ViewController: UIViewController {
     //     Saves the camera's output
     @IBAction func savePicture(sender: AnyObject) {
         self.picture.image = self.imageToSave
+//        self.view.bringSubviewToFront(sticker)
         let layer = UIApplication.sharedApplication().keyWindow!.layer
         self.save.hidden = true
-        self.sticker.hidden = true
+        self.selectSticker.hidden = true
         let scale = UIScreen.mainScreen().scale
         
         UIGraphicsBeginImageContextWithOptions(layer.frame.size, false, scale);
@@ -187,7 +188,7 @@ class ViewController: UIViewController {
         //Save it to the camera roll
         UIImageWriteToSavedPhotosAlbum(image, nil, nil, nil)
         self.save.hidden = false
-        self.sticker.hidden = false
+        self.selectSticker.hidden = false
         viewDidLoad()
         
     }
