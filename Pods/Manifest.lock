@@ -1,12 +1,15 @@
 PODS:
+  - CameraButton (0.1.2)
   - CameraManager (2.2.4)
 
 DEPENDENCIES:
+  - CameraButton
   - CameraManager (~> 2.2)
 
 SPEC CHECKSUMS:
+  CameraButton: 91862ab06253f637edebd54469413ae7c1eef055
   CameraManager: 761f0d3dca325e8dabd46065f0b376798bca66bf
 
-PODFILE CHECKSUM: 539d92ebcd67608a0afcefbec18352241d942080
+PODFILE CHECKSUM: d7466805f94ccf2bd940d82411a55256065cdf60
 
 COCOAPODS: 1.0.1

@@ -10,6 +10,7 @@ target 'testCamera' do
   target 'testCameraTests' do
     inherit! :search_paths
 	pod 'CameraManager', '~> 2.2'
+  pod 'CameraButton'
     # Pods for testing
   end
 

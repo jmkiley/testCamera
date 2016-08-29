@@ -14,10 +14,10 @@
             buildForArchiving = "YES">
             <BuildableReference
                BuildableIdentifier = 'primary'
-               BlueprintIdentifier = '4FEFFF8BCFFF25082AF4A867552C5F52'
-               BlueprintName = 'CameraManager'
+               BlueprintIdentifier = '01E3969FCE394CFBE759C3EC68C57C5B'
+               BlueprintName = 'CameraButton'
                ReferencedContainer = 'container:Pods.xcodeproj'
-               BuildableName = 'CameraManager.framework'>
+               BuildableName = 'CameraButton.framework'>
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>

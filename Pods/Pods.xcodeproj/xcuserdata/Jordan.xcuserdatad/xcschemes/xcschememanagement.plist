@@ -4,7 +4,7 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>CameraManager.xcscheme</key>
+		<key>CameraButton.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
@@ -27,6 +27,11 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
+		<key>01E3969FCE394CFBE759C3EC68C57C5B</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
 		<key>26043F94217A75F4D85C827A6B661A05</key>
 		<dict>
 			<key>primary</key>
@@ -37,12 +42,7 @@
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>4041C15DD66327704421DA98B9A48B9E</key>
-		<dict>
-			<key>primary</key>
-			<true/>
-		</dict>
-		<key>4FEFFF8BCFFF25082AF4A867552C5F52</key>
+		<key>DD414AAC15C1869C4BA6F1C136590E9A</key>
 		<dict>
 			<key>primary</key>
 			<true/>
